@@ -18,11 +18,3 @@ img {
 body {
     font-family: 'font', sans-serif;
 }
-
-h2 {
-    margin: 0 0 1em;
-}
-
-li {
-    display: inline-block;
-}
